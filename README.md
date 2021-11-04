@@ -1,6 +1,6 @@
 # Hi, I am Winicjusz, nice to see you on my profile!
 - 👋 Hi, I’m @Winicjusz
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and C#
 
 ----
 
