@@ -5,8 +5,10 @@
 ----
 
 #### What i use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" style="max-width:100%;" height="25">
-<img src="https://luart.org/img/logo.svg" style="max-width:100%;" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" height="30"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" height="30"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" height="30"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" style="max-width:100%;" height="30">
+<img src="https://luart.org/img/logo.svg" style="max-width:100%;" height="20">
+<img src="https://blog.cloudflare.com/content/images/2017/10/luajit_400x400.png" style="max-width:100%;" height="30">
+<img src="https://luarocks.org/static/logo.svg" style="max-width:100%;" height="30">
 
 ![](https://komarev.com/ghpvc/?username=WinicjuszPf&style=flat-square)
 
